@@ -1,0 +1,3 @@
+The file found within this directory named SortingAlgorithms.java makes an array exponentially increasing in its values and bench marks how long each utilized sorting algorithm takes to sort the array. The developed and tested sorting algorithms are a bubble sort, seelction sort, insertion sort, and quick sort. The resulting benchmarks at each tested array size are then ouput until the program is closed.
+
+Year code was created: 2020
